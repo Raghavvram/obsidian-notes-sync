@@ -10,6 +10,7 @@ It stores the full bootstrap program required to start the operating system.
 It is the physical division of a disk drive into one or more regions.
 
 ###### What is a Cylinder?
+A cylinder is **a division of data in a disk drive**
 
 ###### What is the difference between a Volume and a Partition?
 A partition is a physical division of a disk, while a volume is a logical division of a disk.
@@ -18,6 +19,7 @@ A partition is a physical division of a disk, while a volume is a logical divisi
 It divides a disk into sectors so the disk controller can read and write data.
 
 ###### What is Sector Sparing?
+
 
 ###### What is Seek Time?
 The time it takes for the disk arm to move to the correct track.
