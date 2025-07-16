@@ -50,6 +50,9 @@
       },
       "virtual-linker": {
         "startupType": "long"
+      },
+      "obsidian-git": {
+        "startupType": "long"
       }
     }
   }
