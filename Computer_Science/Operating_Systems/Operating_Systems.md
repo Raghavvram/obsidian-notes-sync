@@ -1,97 +1,96 @@
-Disk Management
-IO Management
-File Management
-Security Management
 
-###### What are Basic and Dynamic Disks ?
+## Disk Management
+###### What are the differences between Basic and Dynamic Disks?
+Basic disks use traditional partitions, while dynamic disks offer advanced features like spanning and mirroring.
 
-Basic disks: traditional partitioning schemes. creating primary and extended partitions.
+###### What is the purpose of a Boot Block?
+It stores the full bootstrap program required to start the operating system.
 
-Dynamic disks: Offers more advance features like spanning, mirroring, stripped.
+###### What is disk partitioning?
+It is the physical division of a disk drive into one or more regions.
 
-###### What is the use of Boot Block ?
+###### What is a Cylinder?
 
-the full bootstrap programs is stored in partition called boot block
+###### What is the difference between a Volume and a Partition?
+A partition is a physical division of a disk, while a volume is a logical division of a disk.
 
-###### What is partitioning ?
+###### What is Low-Level Formatting?
+It divides a disk into sectors so the disk controller can read and write data.
 
-Physical Division
+###### What is Sector Sparing?
 
-###### What is a Cylinder
+###### What is Seek Time?
+The time it takes for the disk arm to move to the correct track.
 
-###### Diff bet Volume and Partition ?
+###### What is Rotational Latency?
+The time it takes for the desired sector to rotate under the read/write head.
 
-Partition - Physical Division into tracks
-Volume - Logical Devision
+###### What is Transfer Time?
 
-###### What is Low-Level Formatting ?
+###### What is Disk Response Time?
+The total time to service a disk request: seek time + rotational latency + transfer time.
 
-Before a disk can store data, it must be divided into sectors that the disk can read and write.
+###### What are some disk scheduling algorithms?
+FCFS, SSTF, SCAN, C-SCAN, LOOK, and C-LOOK are common disk scheduling algorithms.
 
-###### What is Sector Sparing ?
+###### What is Stable Storage?
+A classification of storage that survives any single-point failure.
 
-###### What is seek Time ?
+###### What is the difference between data striping and data mirroring?
+Striping distributes data across disks for performance; mirroring duplicates data for redundancy.
 
-Time taken for the disk arm to move to the correct track
+###### What is a hot spare in RAID?
+A standby disk that automatically replaces a failed disk in a RAID array.
 
-###### What is Rotational Latency ?
+###### What is degraded mode in RAID?
+When a RAID array continues to operate with a failed disk, often with reduced performance.
 
-The time taken for the desired sector to rotate under the read/write head
+###### How is data reconstructed in RAID after a disk failure?
+Data is rebuilt using parity information or from a mirrored copy on other disks in the array.
 
-###### What is Transfer Time ?
+###### What is the "write hole" in RAID 5?
+A data inconsistency that can occur if a power failure happens during a stripe write.
 
-###### What is Response Time ?
+###### What is a stripe set?
+A set of disks that have their data interleaved in a RAID configuration.
 
-(seek time + rot lat + transfer time)
+###### What is RAID?
+Redundant Array of Independent Disks, a way to store data on multiple hard disks.
 
-###### Disk Scheduling Algorithm
+###### What is a file allocation table (FAT)?
+A table that an operating system maintains on a hard disk that provides a map of the cluster.
 
-###### Stable Storage / Tertiary Storage
+## I/O Management
+###### What are the key registers in an I/O port?
+Typically data, status, and control registers.
 
-###### What is data striping and data mirroring ?
+###### How does the CPU interact with I/O devices?
+Through memory-mapped I/O (MMIO) or port-mapped I/O (PMIO).
 
-Striping distributes data across multiple disk for inc. performance, while mirroring creates duplicate across multiple disk
+###### What is I/O Polling?
+The CPU repeatedly checks an I/O device's status to see if it is ready for data transfer.
 
-###### What is hot spare in RAID ?
+###### What is an interrupt?
+A signal to the CPU from hardware or software indicating an event that needs immediate attention.
 
-###### What is degraded mode of operation in RAID ?
+###### What is interrupt-initiated I/O?
+An I/O method where the device signals the CPU when it's ready, avoiding polling.
 
-Depending on the RAID level, the OS rebuilds the data from parity information or from the mirrored copy on another disk.
+###### What is interrupt nesting?
+A higher-priority interrupt can preempt the execution of a lower-priority interrupt handler.
 
-###### How is data reconstructed after a disk failure in RAID ?
+###### What is Direct Memory Access (DMA)?
+It allows I/O devices to transfer data directly to/from main memory, bypassing the CPU.
 
-###### What is a write Hole in RAID 5?
+###### What is an I/O Control Block (IOCB)?
+A data structure in the OS kernel that represents an I/O request.
 
-###### What is a stripe set ?
+###### What is double buffering?
+Using two buffers for I/O to allow one to be filled while the other is being emptied.
 
-A group of disks that are used to store together
+###### What is a device driver?
+Software that allows the operating system to communicate with a hardware device.
 
-#### I/O
+## File Management
 
-###### What are the key registers in an IO port ?
-
-###### How does the CPU interact with I/O devices ?
-
-Memory Mapped(accessing ports as memory locations) or Port Mapped(special instruction)
-
-###### what is Polling ?
-
-technique where the CPU repeatedly checks the status of an I/O device to see if its ready for data transfer.
-
-###### What is a interrupt ?
-
-disturbance in normal flow
-
-###### What is a interrupt-initiated ?
-
-Allows device to signal the CPU when its read for data transfer, rather than the CPU constantly checking.
-
-###### What is a interrupt nesting?
-
-higher priority interrupts to interrupts the processing of lower-interrupts.
-
-###### What is DMA ?
-
-allows drivers to transfer data directly to and from memory without CPU intervention, improving efficiency
-
-###### What are IO Control Block
+## Security Management
