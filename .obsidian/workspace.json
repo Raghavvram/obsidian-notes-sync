@@ -171,7 +171,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 399.5
+    "width": 399.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -187,8 +188,9 @@
       "obisidian-note-linker:Note Linker": false
     }
   },
-  "active": "44695d4ba7c06ed2",
+  "active": "e68ab108dbb549f8",
   "lastOpenFiles": [
+    "obsidian",
     "JIT vs Int vs Com.md",
     "🛠️ Steps to Remove local-lvm and Expand pve-root.md",
     "Java_Spring_Framework.md",
@@ -221,7 +223,6 @@
     "LLD/Design_Patterns/Structural/Adapter_DP.md",
     "LLD/Design_Patterns/Structural/Facade_DP.md",
     "LLD/Design_Patterns/Structural/Decorator_DP.md",
-    "LLD/Design_Patterns/Behaviour/Observer_DP.md",
     "LLD",
     "OOPs",
     "AWS/AWS-Certified-Solutions-Architect-Associate_Exam-Guide.pdf",
