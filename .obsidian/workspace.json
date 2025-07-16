@@ -4,16 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "ccb68429feeea74c",
+        "id": "416c9f7d0d2d9476",
         "type": "tabs",
         "children": [
           {
-            "id": "6eed796504752ed9",
+            "id": "459b46154fb91ac4",
             "type": "leaf",
             "state": {
-              "type": "beautitab-react-view",
-              "state": {},
-              "title": "New tab"
+              "type": "markdown",
+              "state": {
+                "file": "Computer_Science/Operating_Systems/Operating_Systems.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Operating_Systems"
             }
           }
         ]
@@ -188,8 +203,25 @@
       "obisidian-note-linker:Note Linker": false
     }
   },
-  "active": "e68ab108dbb549f8",
+  "active": "459b46154fb91ac4",
   "lastOpenFiles": [
+    "Computer_Science/Operating_Systems/Multi-Threading.md",
+    "Computer_Science/DSA/Graphs_Algorithms.md",
+    "Computer_Science/DSA/DSA_Syllabus.md",
+    "Computer_Science/DSA/DSA_LAB_Programs.md",
+    "Computer_Science/DSA/3D_DP_LCS.md",
+    "Computer_Science/DBMS/DBMS.md",
+    "Computer_Science/Computer_Networks/CN/Line Encoding.md",
+    "Computer_Science/Computer_Networks/CN/Data_Link_layer.md",
+    "Computer_Science/Computer_Networks/CN/Circuit Switching.md",
+    "Computer_Science/Computer_Networks/CN/Addressing.md",
+    "Computer_Science/Computer_Networks/Circuit_Switching.png",
+    "Miscellaneous/STS_4006.md",
+    "Miscellaneous/SDOT.md",
+    "Personal/Resume.md",
+    "Software_Engineering/OOPs/Inheritance.md",
+    "Software_Engineering/Java/OOPs_and_Java.md",
+    "Software_Engineering/Java/Java_Spring_Framework.md",
     "obsidian",
     "JIT vs Int vs Com.md",
     "🛠️ Steps to Remove local-lvm and Expand pve-root.md",
@@ -202,31 +234,15 @@
     "CN/Circuit Switching.md",
     "Circuit_Switching.png",
     "CN/Line Encoding.md",
-    "CN/Addressing.md",
-    "OOPs/Piller of OOPs.md",
-    "OOPs_and_Java.md",
-    "OOPs/Inheritance.md",
     "CN",
-    "OOPs/Ploymorphism.md",
-    "DBMS/DBMS.md",
     "DBMS",
-    "Love.md",
-    "Excalidraw/Node.md",
-    "Graphs_Algorithms.md",
     "LLD/Design_Patterns/Structural",
     "LLD/Design_Patterns/Behaviour",
     "LLD/Design_Patterns/Creational",
     "LLD/Design_Patterns",
-    "LLD/Design_Patterns/Creational/Builder_DP.md",
-    "LLD/Design_Patterns/Creational/Prototype_DP.md",
-    "LLD/Design_Patterns/Creational/Factory_Method_DP.md",
-    "LLD/Design_Patterns/Structural/Adapter_DP.md",
-    "LLD/Design_Patterns/Structural/Facade_DP.md",
-    "LLD/Design_Patterns/Structural/Decorator_DP.md",
     "LLD",
     "OOPs",
     "AWS/AWS-Certified-Solutions-Architect-Associate_Exam-Guide.pdf",
-    "AWS",
     "Canvas/Untitled.canvas"
   ]
 }
