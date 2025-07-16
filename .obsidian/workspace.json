@@ -1,0 +1,231 @@
+{
+  "main": {
+    "id": "8f4f4a96c949c4a8",
+    "type": "split",
+    "children": [
+      {
+        "id": "ccb68429feeea74c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6eed796504752ed9",
+            "type": "leaf",
+            "state": {
+              "type": "beautitab-react-view",
+              "state": {},
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a0457b84033e2a67",
+    "type": "split",
+    "children": [
+      {
+        "id": "1012044c6e5abe23",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e68ab108dbb549f8",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "71829f2b15b4c49f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "apa",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "0d3cd761da33efd2",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 258.5086555480957
+  },
+  "right": {
+    "id": "b2b49a27f6ef0fc4",
+    "type": "split",
+    "children": [
+      {
+        "id": "a4c6a6357d9c810a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2fe62b27ec0943fd",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "AWS/AWS-Certified-Solutions-Architect-Associate_Exam-Guide.pdf",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for AWS-Certified-Solutions-Architect-Associate_Exam-Guide"
+            }
+          },
+          {
+            "id": "70d41eea10f48764",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "AWS/AWS-Certified-Solutions-Architect-Associate_Exam-Guide.pdf",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from AWS-Certified-Solutions-Architect-Associate_Exam-Guide"
+            }
+          },
+          {
+            "id": "874aaebd1a2f5688",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "5eb395d712246793",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "AWS/AWS-Certified-Solutions-Architect-Associate_Exam-Guide.pdf",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of AWS-Certified-Solutions-Architect-Associate_Exam-Guide"
+            }
+          },
+          {
+            "id": "faa430a890adc5dd",
+            "type": "leaf",
+            "state": {
+              "type": "transcript-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "44695d4ba7c06ed2",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 583.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "obisidian-note-linker:Note Linker": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "6eed796504752ed9",
+  "lastOpenFiles": [
+    "JIT vs Int vs Com.md",
+    "🛠️ Steps to Remove local-lvm and Expand pve-root.md",
+    "Java_Spring_Framework.md",
+    "Operating_Systems.md",
+    "Multi-Threading.md",
+    "OPPs_QA.md",
+    "Resume.md",
+    "CN/Data_Link_layer.md",
+    "CN/Circuit Switching.md",
+    "Circuit_Switching.png",
+    "CN/Line Encoding.md",
+    "CN/Addressing.md",
+    "OOPs/Piller of OOPs.md",
+    "OOPs_and_Java.md",
+    "OOPs/Inheritance.md",
+    "CN",
+    "OOPs/Ploymorphism.md",
+    "DBMS/DBMS.md",
+    "DBMS",
+    "Love.md",
+    "Excalidraw/Node.md",
+    "Graphs_Algorithms.md",
+    "LLD/Design_Patterns/Structural",
+    "LLD/Design_Patterns/Behaviour",
+    "LLD/Design_Patterns/Creational",
+    "LLD/Design_Patterns",
+    "LLD/Design_Patterns/Creational/Builder_DP.md",
+    "LLD/Design_Patterns/Creational/Prototype_DP.md",
+    "LLD/Design_Patterns/Creational/Factory_Method_DP.md",
+    "LLD/Design_Patterns/Structural/Adapter_DP.md",
+    "LLD/Design_Patterns/Structural/Facade_DP.md",
+    "LLD/Design_Patterns/Structural/Decorator_DP.md",
+    "LLD/Design_Patterns/Behaviour/Observer_DP.md",
+    "LLD",
+    "OOPs",
+    "AWS/AWS-Certified-Solutions-Architect-Associate_Exam-Guide.pdf",
+    "AWS",
+    "Canvas/Untitled.canvas"
+  ]
+}

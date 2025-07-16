@@ -1,0 +1,56 @@
+{
+  "dualConfigs": false,
+  "showConsoleLog": false,
+  "desktop": {
+    "shortDelaySeconds": 5,
+    "longDelaySeconds": 15,
+    "delayBetweenPlugins": 40,
+    "defaultStartupType": "long",
+    "showDescriptions": true,
+    "enableDependencies": false,
+    "plugins": {
+      "obsidian-banners": {
+        "startupType": "instant"
+      },
+      "beautitab": {
+        "startupType": "instant"
+      },
+      "better-word-count": {
+        "startupType": "instant"
+      },
+      "convert-url-to-iframe": {
+        "startupType": "disabled"
+      },
+      "obsidian-excalidraw-plugin": {
+        "startupType": "instant"
+      },
+      "obsidian-file-color": {
+        "startupType": "instant"
+      },
+      "obsidian-icon-folder": {
+        "startupType": "instant"
+      },
+      "oz-image-plugin": {
+        "startupType": "instant"
+      },
+      "ytranscript": {
+        "startupType": "long"
+      },
+      "auto-card-link": {
+        "startupType": "long"
+      },
+      "prettier-format": {
+        "startupType": "long"
+      },
+      "obisidian-note-linker": {
+        "startupType": "long"
+      },
+      "obsidian-paste-image-rename": {
+        "startupType": "long"
+      },
+      "virtual-linker": {
+        "startupType": "long"
+      }
+    }
+  }
+}

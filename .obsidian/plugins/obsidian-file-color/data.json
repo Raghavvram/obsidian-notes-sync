@@ -1,0 +1,56 @@
+{
+  "cascadeColors": true,
+  "colorBackground": true,
+  "palette": [
+    {
+      "id": "YIdANZ5zMH8V2FT07d6Gx",
+      "name": "Red",
+      "value": "#ff0000"
+    },
+    {
+      "id": "qTfxYaslu-OLxSSPfxgg_",
+      "name": "Blue",
+      "value": "#2a00fa"
+    },
+    {
+      "id": "E4tsJBoau1I9iFMG9PYLh",
+      "name": "Cyan",
+      "value": "#00fbff"
+    },
+    {
+      "id": "z3chbWBU8NjU6Jbudb-XX",
+      "name": "",
+      "value": "#2bff00"
+    }
+  ],
+  "fileColors": [
+    {
+      "path": "SDOT.md",
+      "color": "YIdANZ5zMH8V2FT07d6Gx"
+    },
+    {
+      "path": "STS_4006.md",
+      "color": "E4tsJBoau1I9iFMG9PYLh"
+    },
+    {
+      "path": "Love.md",
+      "color": "qTfxYaslu-OLxSSPfxgg_"
+    },
+    {
+      "path": "LLD",
+      "color": "E4tsJBoau1I9iFMG9PYLh"
+    },
+    {
+      "path": "LLD/Design_Patterns/Behaviour",
+      "color": "YIdANZ5zMH8V2FT07d6Gx"
+    },
+    {
+      "path": "LLD/Design_Patterns/Creational",
+      "color": "qTfxYaslu-OLxSSPfxgg_"
+    },
+    {
+      "path": "LLD/Design_Patterns/Structural",
+      "color": "z3chbWBU8NjU6Jbudb-XX"
+    }
+  ]
+}

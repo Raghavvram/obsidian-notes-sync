@@ -1,0 +1,9 @@
+{
+  "nativeMenus": true,
+  "interfaceFontFamily": "Consolas",
+  "textFontFamily": "Consolas,Calibri",
+  "monospaceFontFamily": "Consolas",
+  "baseFontSize": 16,
+  "theme": "obsidian",
+  "cssTheme": "Vauxhall"
+}

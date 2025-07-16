@@ -1,0 +1,12 @@
+- [ ] Write a Program to implement stack operations using arrays.
+- [ ] Write a Program to implement stack operations using Linked list.
+- [ ] Write a Program to implement queue operations using arrays.
+- [ ] Write a Program to implement Queue operations using linked list.
+- [ ] Write a Program to implement Binary Search using recursion.
+- [ ] Write a Program to implement Linear Search using recursion.
+- [ ] Write a program to implement quicksort.
+- [ ] Write a program to implement Merge sort.
+- [ ] Write a program to implement Insertion sort.
+- [ ] Write a program to implement Selection sort.
+- [ ] Write a Program for the Evaluation of a given postfix expression.
+- [ ] Write a program to implement the Infix to Postfix expression.
