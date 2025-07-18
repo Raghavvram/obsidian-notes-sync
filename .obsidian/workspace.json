@@ -54,9 +54,33 @@
               "icon": "lucide-file",
               "title": "Boruta-Shap_lib"
             }
+          },
+          {
+            "id": "04b2cab4d80ef7f6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Machine_Learning/Steps_In_ML.md",
+                "mode": "preview",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Steps_In_ML"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -230,8 +254,9 @@
   },
   "active": "e68ab108dbb549f8",
   "lastOpenFiles": [
-    "Machine_Learning/Ensemble_Techniques.md",
     "Machine_Learning/Boruta-Shap_lib.md",
+    "Machine_Learning/Steps_In_ML.md",
+    "Machine_Learning/Ensemble_Techniques.md",
     "Excalidraw/FrameWork-IDPS.md",
     "Machine_Learning",
     "Computer_Science/Computer_Networks/📱 SSL-TLS.md",
@@ -258,7 +283,6 @@
     "Software_Engineering/Java/OOPs_and_Java.md",
     "Software_Engineering/Java/Java_Spring_Framework.md",
     "obsidian",
-    "JIT vs Int vs Com.md",
     "Circuit_Switching.png",
     "CN",
     "DBMS",
