@@ -1,9 +1,3 @@
-Absolutely! Constraints in a Database Management System (DBMS) are like traffic rules—they ensure that data remains accurate, consistent, and meaningful. Think of them as the guardians of integrity in your database world. Here's a complete breakdown:
-
----
-
-### 🧩 Types of Constraints in DBMS
-
 #### 1. **NOT NULL Constraint**
 
 - **Purpose**: Ensures a column cannot have a `NULL` value.

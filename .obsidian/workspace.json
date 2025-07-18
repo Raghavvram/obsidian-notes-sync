@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer_Science/DBMS/Types of Constraints.md",
+                "file": "Computer_Science/DBMS/🧩 Types of Constraints.md",
                 "mode": "preview",
                 "source": true,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Types of Constraints"
+              "title": "🧩 Types of Constraints"
             }
           }
         ]
@@ -206,7 +206,7 @@
   "active": "1e88f64b2500df01",
   "lastOpenFiles": [
     "Computer_Science/DBMS/DBMS.md",
-    "Computer_Science/DBMS/Types of Constraints.md",
+    "Computer_Science/DBMS/🧩 Types of Constraints.md",
     "Technical_Notes/JIT vs Int vs Com.md",
     "Computer_Science/Operating_Systems/MP-MT-MP-MT.md",
     "Computer_Science/Operating_Systems/MP-MT-MP-MT-2.md",
