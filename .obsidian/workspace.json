@@ -78,9 +78,33 @@
               "icon": "lucide-file",
               "title": "Steps_In_ML"
             }
+          },
+          {
+            "id": "1f65801203fd6717",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Machine_Learning/Exploratory_Data_Analysis(EDA).md",
+                "mode": "preview",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Exploratory_Data_Analysis(EDA)"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -254,8 +278,9 @@
   },
   "active": "e68ab108dbb549f8",
   "lastOpenFiles": [
-    "Machine_Learning/Boruta-Shap_lib.md",
     "Machine_Learning/Steps_In_ML.md",
+    "Machine_Learning/Exploratory_Data_Analysis(EDA).md",
+    "Machine_Learning/Boruta-Shap_lib.md",
     "Machine_Learning/Ensemble_Techniques.md",
     "Excalidraw/FrameWork-IDPS.md",
     "Machine_Learning",
@@ -281,7 +306,6 @@
     "Personal/Resume.md",
     "Software_Engineering/OOPs/Inheritance.md",
     "Software_Engineering/Java/OOPs_and_Java.md",
-    "Software_Engineering/Java/Java_Spring_Framework.md",
     "obsidian",
     "Circuit_Switching.png",
     "CN",
