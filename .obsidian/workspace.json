@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ensemble_Techniques.md",
+                "file": "Machine_Learning/Ensemble_Techniques.md",
                 "mode": "preview",
                 "source": true,
                 "backlinks": true,
@@ -30,8 +30,33 @@
               "icon": "lucide-file",
               "title": "Ensemble_Techniques"
             }
+          },
+          {
+            "id": "ab0025490bb8036c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Machine_Learning/Boruta-Shap_lib.md",
+                "mode": "preview",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Boruta-Shap_lib"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -199,14 +224,15 @@
       "command-palette:Open command palette": false,
       "markdown-importer:Open format converter": false,
       "obsidian-excalidraw-plugin:New drawing": false,
-      "obsidian-git:Open Git source control": false,
-      "obisidian-note-linker:Note Linker": false
+      "obisidian-note-linker:Note Linker": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "84702831f8fd792a",
+  "active": "e68ab108dbb549f8",
   "lastOpenFiles": [
+    "Machine_Learning/Ensemble_Techniques.md",
+    "Machine_Learning/Boruta-Shap_lib.md",
     "Excalidraw/FrameWork-IDPS.md",
-    "Ensemble_Techniques.md",
     "Machine_Learning",
     "Computer_Science/Computer_Networks/📱 SSL-TLS.md",
     "Computer_Science/Computer_Networks/CN/🧮 Line Encoding.md",
@@ -233,7 +259,6 @@
     "Software_Engineering/Java/Java_Spring_Framework.md",
     "obsidian",
     "JIT vs Int vs Com.md",
-    "🛠️ Steps to Remove local-lvm and Expand pve-root.md",
     "Circuit_Switching.png",
     "CN",
     "DBMS",
