@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "2a57e792443b1f02",
+        "id": "d90e2d7297f42a11",
         "type": "tabs",
         "children": [
           {
-            "id": "1e88f64b2500df01",
+            "id": "84702831f8fd792a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer_Science/Computer_Networks/📱 SSL-TLS.md",
+                "file": "Ensemble_Techniques.md",
                 "mode": "preview",
                 "source": true,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "📱 SSL-TLS"
+              "title": "Ensemble_Techniques"
             }
           }
         ]
@@ -203,8 +203,12 @@
       "obisidian-note-linker:Note Linker": false
     }
   },
-  "active": "1e88f64b2500df01",
+  "active": "84702831f8fd792a",
   "lastOpenFiles": [
+    "Excalidraw/FrameWork-IDPS.md",
+    "Ensemble_Techniques.md",
+    "Machine_Learning",
+    "Computer_Science/Computer_Networks/📱 SSL-TLS.md",
     "Computer_Science/Computer_Networks/CN/🧮 Line Encoding.md",
     "Computer_Science/Computer_Networks/CN/Circuit Switching.md",
     "Computer_Science/Computer_Networks/CN/💻 Addressing.md",
@@ -215,7 +219,6 @@
     "Computer_Science/Operating_Systems/🖥️ Operating_Systems.md",
     "Technical_Notes/JIT vs Int vs Com.md",
     "Computer_Science/DBMS/🧩 Types of Constraints.md",
-    "Computer_Science/Computer_Networks/📱 SSL-TLS.md",
     "Computer_Science/DSA/Graphs_Algorithms.md",
     "Computer_Science/DSA/DSA_Syllabus.md",
     "Computer_Science/DSA/DSA_LAB_Programs.md",
@@ -231,8 +234,6 @@
     "obsidian",
     "JIT vs Int vs Com.md",
     "🛠️ Steps to Remove local-lvm and Expand pve-root.md",
-    "Java_Spring_Framework.md",
-    "Operating_Systems.md",
     "Circuit_Switching.png",
     "CN",
     "DBMS",
@@ -242,7 +243,6 @@
     "LLD/Design_Patterns",
     "LLD",
     "OOPs",
-    "AWS/AWS-Certified-Solutions-Architect-Associate_Exam-Guide.pdf",
     "Canvas/Untitled.canvas"
   ]
 }
