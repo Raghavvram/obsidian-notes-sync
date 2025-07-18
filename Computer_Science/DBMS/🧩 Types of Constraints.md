@@ -49,7 +49,3 @@
 |CHECK|Custom condition|✅|✅|Age > 18|
 |DEFAULT|Default value|✅|✅|Set default status|
 |INDEX|Query optimization|✅|✅|Search performance|
-
----
-
-If you're designing a schema and wondering which constraints to apply, I can help you tailor them to fit your use case too! Want to dive deeper into one of these?
