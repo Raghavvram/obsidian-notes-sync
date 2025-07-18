@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "387dcb9e4cfc20f4",
+        "id": "2a57e792443b1f02",
         "type": "tabs",
         "children": [
           {
-            "id": "7f88d4e5e91fd292",
+            "id": "1e88f64b2500df01",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer_Science/Operating_Systems/MP-MT-MP-MT.md",
+                "file": "Computer_Science/DBMS/Types of Constraints.md",
                 "mode": "preview",
                 "source": true,
                 "backlinks": true,
@@ -28,35 +28,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "MP-MT-MP-MT"
-            }
-          },
-          {
-            "id": "b0947d92f76bd0f5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Computer_Science/Operating_Systems/MP-MT-MP-MT-2.md",
-                "mode": "preview",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "MP-MT-MP-MT-2"
+              "title": "Types of Constraints"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -228,19 +203,20 @@
       "obisidian-note-linker:Note Linker": false
     }
   },
-  "active": "b0947d92f76bd0f5",
+  "active": "1e88f64b2500df01",
   "lastOpenFiles": [
-    "Computer_Science/Operating_Systems/MP-MT-MP-MT-2.md",
-    "Computer_Science/Operating_Systems/MP-MT-MP-MT.md",
-    "Computer_Science/Computer_Networks/SSL-TLS.md",
+    "Computer_Science/DBMS/DBMS.md",
+    "Computer_Science/DBMS/Types of Constraints.md",
     "Technical_Notes/JIT vs Int vs Com.md",
+    "Computer_Science/Operating_Systems/MP-MT-MP-MT.md",
+    "Computer_Science/Operating_Systems/MP-MT-MP-MT-2.md",
+    "Computer_Science/Computer_Networks/SSL-TLS.md",
     "Computer_Science/Operating_Systems/Multi-Threading.md",
     "Computer_Science/Operating_Systems/Operating_Systems.md",
     "Computer_Science/DSA/Graphs_Algorithms.md",
     "Computer_Science/DSA/DSA_Syllabus.md",
     "Computer_Science/DSA/DSA_LAB_Programs.md",
     "Computer_Science/DSA/3D_DP_LCS.md",
-    "Computer_Science/DBMS/DBMS.md",
     "Computer_Science/Computer_Networks/CN/Line Encoding.md",
     "Computer_Science/Computer_Networks/CN/Data_Link_layer.md",
     "Computer_Science/Computer_Networks/CN/Circuit Switching.md",
@@ -257,7 +233,6 @@
     "🛠️ Steps to Remove local-lvm and Expand pve-root.md",
     "Java_Spring_Framework.md",
     "Operating_Systems.md",
-    "Multi-Threading.md",
     "Circuit_Switching.png",
     "CN",
     "DBMS",
