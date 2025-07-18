@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer_Science/DBMS/🧩 Types of Constraints.md",
+                "file": "Computer_Science/Computer_Networks/📱 SSL-TLS.md",
                 "mode": "preview",
                 "source": true,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "🧩 Types of Constraints"
+              "title": "📱 SSL-TLS"
             }
           }
         ]
@@ -205,22 +205,22 @@
   },
   "active": "1e88f64b2500df01",
   "lastOpenFiles": [
+    "Computer_Science/Computer_Networks/CN/🧮 Line Encoding.md",
+    "Computer_Science/Computer_Networks/CN/Circuit Switching.md",
+    "Computer_Science/Computer_Networks/CN/💻 Addressing.md",
     "Computer_Science/DBMS/DBMS.md",
-    "Computer_Science/DBMS/🧩 Types of Constraints.md",
+    "Computer_Science/Operating_Systems/⚙️ MP-MT-MP-MT-2.md",
+    "Computer_Science/Operating_Systems/⚙️ MP-MT-MP-MT.md",
+    "Computer_Science/Operating_Systems/🧮 Multi-Threading.md",
+    "Computer_Science/Operating_Systems/🖥️ Operating_Systems.md",
     "Technical_Notes/JIT vs Int vs Com.md",
-    "Computer_Science/Operating_Systems/MP-MT-MP-MT.md",
-    "Computer_Science/Operating_Systems/MP-MT-MP-MT-2.md",
-    "Computer_Science/Computer_Networks/SSL-TLS.md",
-    "Computer_Science/Operating_Systems/Multi-Threading.md",
-    "Computer_Science/Operating_Systems/Operating_Systems.md",
+    "Computer_Science/DBMS/🧩 Types of Constraints.md",
+    "Computer_Science/Computer_Networks/📱 SSL-TLS.md",
     "Computer_Science/DSA/Graphs_Algorithms.md",
     "Computer_Science/DSA/DSA_Syllabus.md",
     "Computer_Science/DSA/DSA_LAB_Programs.md",
     "Computer_Science/DSA/3D_DP_LCS.md",
-    "Computer_Science/Computer_Networks/CN/Line Encoding.md",
     "Computer_Science/Computer_Networks/CN/Data_Link_layer.md",
-    "Computer_Science/Computer_Networks/CN/Circuit Switching.md",
-    "Computer_Science/Computer_Networks/CN/Addressing.md",
     "Computer_Science/Computer_Networks/Circuit_Switching.png",
     "Miscellaneous/STS_4006.md",
     "Miscellaneous/SDOT.md",
